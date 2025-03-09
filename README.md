@@ -1,6 +1,6 @@
 # 22KDL - Python for Data Science
 ## Name
-Chatbot 
+Chatbot of Presight web
 ## Description
 Using LLM - Gemini API to answer questions from users that relate to the information at https://www.presight.io/privacy-policy.html
 ## Contributing
