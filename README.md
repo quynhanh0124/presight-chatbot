@@ -24,9 +24,11 @@ Using LLM - Gemini API to answer questions from users that relate to the informa
     <tr>
         <td>22280086</td>
         <td>Nguyen Truong Thinh</td>
+        <td>University of Science (VNUHCM)</td>
     </tr>
     <tr>
         <td>22280094</td>
         <td>Le Thanh Thuy</td>
+        <td>University of Science (VNUHCM)</td>
     </tr>
 </table>
