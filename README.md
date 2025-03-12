@@ -2,7 +2,8 @@
 ## Name
 Chatbot of Presight web
 ## Description
-Using LLM - Gemini API to answer questions from users that relate to the information at https://www.presight.io/privacy-policy.html
+- Using the Gemini API to translate a single text and multiple texts into Vietnamese.
+- Using the Gemini API to create a chatbot that answer questions from users that relate to the information at https://www.presight.io/privacy-policy.html
 ## Contributing
 <table>
     <tr>
